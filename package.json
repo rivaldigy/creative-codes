@@ -1,8 +1,8 @@
 {
-  "name": "sketches",
+  "name": "creative-codes",
   "version": "1.0.0",
-  "description": "",
-  "main": "sketch.js",
+  "description": "My collection of Creative Coding is dedicated to learning and hopefully helping people learn too",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
